@@ -1,6 +1,6 @@
 # PYTHON_3
 # Author : GitTomRepo
-# Link :
+# Link : https://github.com/GitTomRepo/Maths-Functions/blob/main/random_generetion.py
 
 import random
 caracter = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "&", "~", "#", "{", "(", "[", "-", "|", "è", "_", "ç", "^", "à", "@", ")", "]", "=", "}"]
