@@ -1,6 +1,6 @@
 # PYTHON_3
 # Author : GitTomRepo
-# Link :
+# Link : https://github.com/GitTomRepo/Maths-Functions/blob/main/periodicity.py
 
 number = int(input("Number : "))
 diviseur = int(input("Divider : "))
