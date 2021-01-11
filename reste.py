@@ -1,6 +1,6 @@
 # PYTHON_3
 # Author : GitTomRepo
-# Link : 
+# Link : https://github.com/GitTomRepo/Maths-Functions/blob/main/reste.py
 
 number_without_f = float(input("Number : "))
 factor = float(input("Factor : "))
