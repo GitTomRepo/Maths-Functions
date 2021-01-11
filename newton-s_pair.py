@@ -1,6 +1,6 @@
 # PYTHON_3
 # Author : GitTomRepo
-# Link :
+# Link : https://github.com/GitTomRepo/Maths-Functions/blob/main/newton-s_pair.py
 
 from math import *
 a = float(input("a = "))
